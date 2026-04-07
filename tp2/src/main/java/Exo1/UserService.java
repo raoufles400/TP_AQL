@@ -1,4 +1,4 @@
-package com.tp2.Exo1;
+package Exo1;
 
 public class UserService {
     private final UserRepository userRepository;
